@@ -146,10 +146,11 @@ textarea {
   position: relative;
   top: 20px;
 }
-.mgh-inp2 {
+/* .mgh-inp2 {
   position: relative;
-  top: 45px;
-}
+  top: 21px;
+  left: -2%;
+} */
 .form-check-input {
   width: 20px !important;
   height: 20px !important;
