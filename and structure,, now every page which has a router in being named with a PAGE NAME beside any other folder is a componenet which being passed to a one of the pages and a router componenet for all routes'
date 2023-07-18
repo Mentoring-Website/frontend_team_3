@@ -1,0 +1,222 @@
+[33mcommit 59e4b0bb2ffba87d8813974a317b69582cac0764[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 7adfbd9 0ded21b
+Author: Mostafa Mohamed <84382823+MostafaMohamed142@users.noreply.github.com>
+Date:   Sun Jul 16 18:10:53 2023 +0300
+
+    Merge pull request #1 from Mentoring-Website/frontend-3
+    
+    Frontend 3
+
+[33mcommit 0ded21bb867c0d1136e1ceeb8a9a4f941efb0188[m[33m ([m[1;31morigin/frontend-3[m[33m, [m[1;32mfrontend-3[m[33m)[m
+Merge: df6fa33 7adfbd9
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Sun Jul 16 18:08:40 2023 +0300
+
+    solved conflict
+
+[33mcommit df6fa3379d8a7c4662529cb89ec0d212651ea312[m
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Sat Jul 15 16:01:09 2023 +0300
+
+    added forget password page
+
+[33mcommit 71ceeb496d501c262b1eb8b97bb3056bf22e7341[m
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Fri Jul 14 17:19:16 2023 +0300
+
+    react script
+
+[33mcommit ed420031aedea2ec6d90fb23e66bd16f3e623f9e[m
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Fri Jul 14 16:38:04 2023 +0300
+
+    project done
+
+[33mcommit bab66a742f48eb36d85b3208878fbaf18368307f[m
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Thu Jul 13 16:57:17 2023 +0300
+
+    calender and fixed project folders and css for each folder
+
+[33mcommit 5c875d7b7a368d7c5f7ea65800c273dde575a46f[m
+Merge: dbb38e0 0c55532
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Thu Jul 13 01:18:51 2023 +0300
+
+    folder of login
+
+[33mcommit dbb38e0b9676ff8b24356b98b93300c5a70e37c1[m
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Thu Jul 13 01:11:27 2023 +0300
+
+    l
+
+[33mcommit 0c55532bb3aca80ca70c42eac908b35cfcfd8f24[m
+Author: mahmoudRagab7 <mahmoud.ragab187@gmail.com>
+Date:   Thu Jul 13 01:09:34 2023 +0300
+
+    create
+
+[33mcommit 2d39abf1b8995efe44a07aa5cc918bbacf00c422[m
+Author: mahmoudRagab7 <mahmoud.ragab187@gmail.com>
+Date:   Thu Jul 13 01:00:52 2023 +0300
+
+    creat
+
+[33mcommit 7087cefd1bbe6e7400ef3e33a1ecb4b1e4bb17b0[m
+Merge: cc2847c 3cb5c4f
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Wed Jul 12 23:33:22 2023 +0300
+
+    login and reg component
+
+[33mcommit 3cb5c4f0e555eedd3c5ed1644d1a2ad3e6562f2f[m
+Author: mahmoudRagab7 <mahmoud.ragab187@gmail.com>
+Date:   Wed Jul 12 23:06:10 2023 +0300
+
+    mahmoud
+
+[33mcommit cc2847c886f452f8ec73964d5dadd3eaef20b8a7[m
+Merge: 2931ca4 3d0816e
+Author: Mostafa Mohamed <84382823+MostafaMohamed142@users.noreply.github.com>
+Date:   Wed Jul 12 22:46:41 2023 +0300
+
+    Merge pull request #19 from SaraDrwish/sara-tre
+    
+    sara test 1
+
+[33mcommit 2931ca4bc89ffa0bcade3c729a287f6fbae6404d[m
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Wed Jul 12 22:42:03 2023 +0300
+
+    fixs
+
+[33mcommit 3d0816e58227c4d25d24a4862ceb5e8e11647747[m
+Author: Sara <38770404+SaraDrwish@users.noreply.github.com>
+Date:   Wed Jul 12 22:13:04 2023 +0300
+
+    dddd
+
+[33mcommit 911e507f0cc1f94f3cfbc162cebdcddda1cbe7f6[m
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Wed Jul 12 18:48:28 2023 +0300
+
+    fixed styling for navbar-search page-contact-page -- fixed routing for search page
+
+[33mcommit 7201fcbd00f2d520f49c0a92d2f030382acee0c3[m
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Wed Jul 12 01:29:11 2023 +0300
+
+    logo
+
+[33mcommit 9e8b38a592ff67781e89b2333c3b7526ec280f24[m
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Wed Jul 12 01:15:19 2023 +0300
+
+    adjustments routes
+
+[33mcommit 7f9ecd04cd7ff0e71356fa942de17b5ac10cb747[m
+Merge: bff36f8 2b89350
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Wed Jul 12 00:44:12 2023 +0300
+
+    opp page
+
+[33mcommit 2b893502f8c9a7fdccc7faf48129f3aaaebce7cb[m
+Author: balqeessabir <balqeessaber@gmail.com>
+Date:   Tue Jul 11 23:23:45 2023 +0200
+
+    copied components to main app
+
+[33mcommit bff36f8719665ad1a9b0d92c4b50ee3aeaf856bf[m
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Tue Jul 11 23:47:01 2023 +0300
+
+    fix
+
+[33mcommit 5072c4b928a10b3834b08ea47d8212ceb442efd8[m
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Tue Jul 11 23:27:18 2023 +0300
+
+    contact page
+
+[33mcommit 351b710eb74b61544ebb8621ef72893da7419dde[m
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Tue Jul 11 21:12:17 2023 +0300
+
+    f
+
+[33mcommit e9cffddde6b6b2384a118e013c8f74230ca6d0d6[m
+Merge: 8c8ca29 21f22c2
+Author: Mostafa Mohamed <84382823+MostafaMohamed142@users.noreply.github.com>
+Date:   Tue Jul 11 19:55:29 2023 +0300
+
+    Merge pull request #5 from SFE-TEAM-3/shimaa
+    
+    Shimaa
+
+[33mcommit 8c8ca2918ceea3e26b1d644ad27dff8de50f5309[m
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Tue Jul 11 19:46:59 2023 +0300
+
+    search page done
+
+[33mcommit 56b04df182f5daa4602bf0306d51363d81fd1a3e[m
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Tue Jul 11 19:24:40 2023 +0300
+
+    removed unused pictures
+
+[33mcommit f5a5f50e51d59773c7f32616857c50084f819235[m
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Tue Jul 11 19:02:00 2023 +0300
+
+    rebase
+
+[33mcommit f3f534711d8ea675636ce4633f1e428352d19f7a[m
+Merge: e27e442 015dbf1
+Author: Mostafa Mohamed <84382823+MostafaMohamed142@users.noreply.github.com>
+Date:   Tue Jul 11 15:30:01 2023 +0300
+
+    Merge pull request #2 from SFE-TEAM-3/Gamal
+    
+    search page
+
+[33mcommit 015dbf16e3d6ac47df282fb6ab70c4133da9ed02[m
+Author: Gamal Hanfey Khattab <120048751+Gamal-Hanfey-Khattab@users.noreply.github.com>
+Date:   Mon Jul 10 19:50:24 2023 +0200
+
+    Filter Part
+
+[33mcommit 21f22c229a9c588407e8f45b30cc48361dacc884[m
+Merge: e27e442 5ad6412
+Author: shimaa3434 <36128295+shimaa3434@users.noreply.github.com>
+Date:   Mon Jul 10 18:09:14 2023 +0300
+
+    Merge pull request #1 from shimaa3434/shimaa
+    
+    add opportunity information opened-closed
+
+[33mcommit 5ad64128fe3b474aa883efc6062aac82606a26f1[m
+Author: shimaa3434 <bwmn900@gmail.com>
+Date:   Mon Jul 10 18:02:35 2023 +0300
+
+    add opportunity information opened-closed
+
+[33mcommit e27e442120a56d4f180f34a1805bc6ee20d0e656[m
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Mon Jul 10 00:26:18 2023 +0300
+
+    first commit
+
+[33mcommit 6f7fe21bfead22f76dda8dc2545c1487e8fc8c2c[m
+Author: MostafaMohamed142 <simbawyy10@gmail.com>
+Date:   Sun Jul 9 19:40:10 2023 +0300
+
+    Initialize project using Create React App
+
+[33mcommit 7adfbd9f3ff60358e1abb85cecf4e6c301c7466a[m
+Author: balqeessabir <69697479+balqeessabir@users.noreply.github.com>
+Date:   Thu Jul 6 20:56:22 2023 +0200
+
+    Initial commit
